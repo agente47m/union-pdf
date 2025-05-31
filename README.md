@@ -46,10 +46,8 @@ Una herramienta de escritorio moderna, ligera y práctica para **unir múltiples
 ### 💻 Instalación local
 
 ```bash
-git clone https://github.com/tuusuario/pdf-merger.git
-cd pdf-merger
-pip install -r requirements.txt
-python unionpdf.py
+git clone https://github.com/agente47m/union-pdf.git
+python unionv2.py
 ```
 
 ---
