@@ -19,12 +19,11 @@ Una herramienta de escritorio moderna, ligera y práctica para **unir múltiples
 ## 🖼️ Captura de pantalla
 
 
-```
-![Interfaz de PDF Merger](ruta/a/captura.png)
+
 <img width="596" alt="1" src="https://github.com/user-attachments/assets/12319065-4257-4123-8325-9b76d103baca" />
 <img width="596" alt="2" src="https://github.com/user-attachments/assets/e2f9bfb4-bbc1-4783-897b-90b5d184cb11" />
 
-```
+
 
 ---
 
